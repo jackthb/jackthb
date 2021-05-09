@@ -15,5 +15,5 @@ I'm a Computer Science undergraduate with a strong focus on building functional 
 
 - 🔭 I’m currently working on my portfolio and TDD
 - 🌱 I’m currently learning about Artificial Intelligence, Product Development, and Digital Media and Social Networks
-- 👯 I’m love to collaborate on web and software projects!
+- 👯 I’d love to collaborate on web and software projects!
 - 📫 How to reach me: via my [website](https://jackburgess.co.uk) or [Twitter](https://twitter.com/jack_thb)
