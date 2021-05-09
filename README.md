@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 I'm a Computer Science undergraduate with a strong focus on building functional software. 
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Big Data, Data Mining, and Computer Graphics
-- 👯 I’m looking to collaborate on web and software projects
+- 🔭 I’m currently working on my portfolio and TDD
+- 🌱 I’m currently learning about Artificial Intelligence, Product Development, and Digital Media and Social Networks
+- 👯 I’m love to collaborate on web and software projects!
 - 📫 How to reach me: via my [website](https://jackburgess.co.uk) or [Twitter](https://twitter.com/jack_thb)
