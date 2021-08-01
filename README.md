@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 I'm a Computer Science undergraduate with a strong focus on building functional software. 
 
-- 🔭 I’m currently working on my side projects.
-- 🌱 I’m currently learning about test-driven development, React, and Elixir.
-- 👯 I’d love to collaborate on web and software projects!
+- 🔭 I’m currently working full-time at @OttaTech.
+- 🌱 I’m currently learning about TypeScript, React, and Elixir
 - 📫 How to reach me: via my [website](https://jackburgess.co.uk) or [Twitter](https://twitter.com/jack_thb)
