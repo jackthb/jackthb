@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 
 -->
-<img src="https://raw.githubusercontent.com/jackthb/jackthb/master/disp.jpg" height="400"/>
 
 # Jack Burgess
 
