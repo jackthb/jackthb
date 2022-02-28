@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 # Jack Burgess
 
-I'm a Computer Science undergraduate with a strong focus on building functional software. 
+I'm a Computer Science undergraduate with a strong focus on building product-centric software. 
 
 - 🔭 I’m currently working full-time at @OttaTech.
 - 🌱 I’m currently learning about TypeScript, React, and Elixir
