@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 
 # Jack Burgess
 
-I'm a Computer Science undergraduate with a strong focus on building product-centric software. 
+I'm a software developer with a strong focus on the user experience. 
 
 - 🔭 I’m currently working full-time at @OttaTech.
-- 🌱 I’m currently learning about React, Elixir, and CSS
 - 📫 How to reach me: via my [website](https://jackburgess.co.uk) or [Twitter](https://twitter.com/jack_thb)
